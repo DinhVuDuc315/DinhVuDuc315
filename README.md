@@ -2,7 +2,7 @@
 - 👀 I’m interested in Games and Sports
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on study
-- 📫 How to reach me dinhvuduc751@gmail.com
+- 📫 How to reach me dinhvuduc315@gmail.com
 
 <!---
 DinhVuDuc315/DinhVuDuc315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
